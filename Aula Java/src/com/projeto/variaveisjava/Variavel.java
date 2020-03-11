@@ -3,7 +3,7 @@ package com.projeto.variaveisjava;
 public class Variavel {
 
 	public static void main(String[] args) {
-		
+		// VARIAVEIS
 
 		byte variavelByte = 10;
 		int variavelInt = 10000;
@@ -12,7 +12,7 @@ public class Variavel {
 		double variavelDouble = 1.232323;
 		boolean variavelBoolean = true;
 		String variavelString = "Nathália";
-		
+
 		System.out.println(variavelByte);
 		System.out.println(variavelInt);
 		System.out.println(variavelLong);
