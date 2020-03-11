@@ -13,11 +13,15 @@ public class LoopsPrincipal {
 	//}
 	
 		
-		//faz e depois compara
-		do {
-			System.out.println("Loop"+ numero);
-			numero++;
-		}while(numero < 5);
+	//faz e depois valida
+	//do {
+	//System.out.println("Loop"+ numero);
+	//numero++;
+	//}while(numero < 5);
+		
+	
+		
+		
 		}
 		
 	}
