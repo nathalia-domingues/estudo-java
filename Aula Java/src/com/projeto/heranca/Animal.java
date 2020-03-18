@@ -9,4 +9,13 @@ public class Animal {
 	public void Correr() {
 		System.out.println("Correr");
 	}
+	
+	//getter e setter
+	public void setCor(String cor) {
+		this.corAnimal = cor;
+	}
+	
+	public String getCor() {
+	return this.corAnimal;
+}
 }
